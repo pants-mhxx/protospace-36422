@@ -22,4 +22,4 @@
 | -------   | ---------- | ----------- |
 | text      | text       | null: false |
 | user      | references |             |
-| phototype | references |             |
+| prototype | references |             |
